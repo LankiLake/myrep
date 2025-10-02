@@ -1,7 +1,6 @@
 def countdown(n):
-    for x in range(n, 0,-1):
-        return x
-def square(num):
     pass
+def square(num):
+    return num**2
 def factorial(num):
     pass
